@@ -22,7 +22,8 @@ The pipeline includes:
   The trained models can be found in the `models/` folder, and the generated embeddings are stored in `data/projections/`.
 
 ## **Results**
-Here are some of the results obtained from the analysis. You can find more details in our paper: **G. Martínez Solaeche et al. (2024)**.
+Here are some of the results obtained from the analysis. You can read more about our findings and methodology in our paper: [G. Martínez Solaeche et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...688A.160M/abstract).
+
 
 ### **1️⃣ Original & Transformed Galaxy Images**  
 This figure shows three galaxies in their original form alongside their transformed versions produced by the pipeline.
