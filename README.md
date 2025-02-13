@@ -16,6 +16,6 @@ This repository contains a  pipeline for processing and analyzing data with CL o
 
 ## Training Visualization
 
-[![Watch the video](images/video_preview.png)](videos/embedding_evolution_3d.mp4)
+[![Watch the video](images/video_preview.png)](https://youtu.be/D6EdMDz58Qw)
 
-## Directory Structure
+
