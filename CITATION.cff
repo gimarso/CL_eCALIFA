@@ -1,0 +1,19 @@
+@ARTICLE{2024A&A...688A.160M,
+       author = {{Mart{\'\i}nez-Solaeche}, G. and {Garc{\'\i}a-Benito}, R. and {Gonz{\'a}lez Delgado}, R.~M. and {D{\'\i}az-Garc{\'\i}a}, L. and {S{\'a}nchez}, S.~F. and {Conrado}, A.~M. and {Rodr{\'\i}guez-Mart{\'\i}n}, J.~E.},
+        title = "{Exploring galaxy properties of eCALIFA with contrastive learning}",
+      journal = {\aap},
+     keywords = {galaxies: evolution, galaxies: fundamental parameters, Astrophysics - Astrophysics of Galaxies},
+         year = 2024,
+        month = aug,
+       volume = {688},
+          eid = {A160},
+        pages = {A160},
+          doi = {10.1051/0004-6361/202450074},
+archivePrefix = {arXiv},
+       eprint = {2405.13471},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2024A&A...688A.160M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
