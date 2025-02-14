@@ -1,5 +1,7 @@
 # Exploring Galaxy Properties of eCALIFA with Contrastive Learning
 
+![Project Logo](images/project_logo.png)
+
 This repository contains a pipeline for processing and analyzing data using **Contrastive Learning (CL) on CALIFA surveys**.
 
 ## Features
